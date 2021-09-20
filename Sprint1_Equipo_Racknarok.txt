@@ -1,0 +1,24 @@
+Julián Ruiz Piedrahíta
+Estudiante de Ingeniería de Sistemas.
+Actualmente vivo en el municipio de Copacabana, Antioquia.
+
+El proceso para cumplir con los requerimientos del Sprint consta de los siguiente puntos:
+
+1. Lectura y visualización de las fuentes y materiales recomendados en la plataforma.
+2. Descarga e instalación de GIT en la máquina local.
+3. Creación e inicialización del directorio para el repositorio local.
+4. Creación de la cuenta en GitHub.
+5. Creación del repositorio en GitHub.
+6. Clonación del repositorio alojado en GitHub.
+7. Creación del presente archivo en la máquina local.
+8. Creación de la rama correspondiente a la modificación.
+9. Agregar modificaciones al repositorio en GitHub.
+
+Enlace del repositorio creado en GitHub:
+https://github.com/JarpGit/Ciclo3.git
+
+Enlace al tablero creado en Trello:
+https://trello.com/invite/b/H7cf9bcB/0c20db43467b97d895bb8f1632485949/tareas-racknarok
+
+
+
